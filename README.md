@@ -133,7 +133,8 @@ Depois do treino, o melhor indivíduo é testado em **300 cenários inéditos** 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   git clone https://github.com/matheusbarcelos-create/IA.git
+   cd IA
    ```
 2. Abra o Scilab e vá até a pasta do projeto.
 3. Execute o script:
@@ -215,5 +216,6 @@ Experimente alterar o tamanho da população, o número de gerações, a taxa de
 
 **Matheus Barcelos de Almeida**
 Engenharia de Computação, Universidade de Uberaba (Uniube)
+GitHub: [@matheusbarcelos-create](https://github.com/matheusbarcelos-create)
 
 Projeto acadêmico da disciplina de Inteligência Artificial.
